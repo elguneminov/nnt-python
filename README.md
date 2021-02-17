@@ -1,1 +1,1 @@
-# nnt-python
+# Neural Networks and TensorFlow
